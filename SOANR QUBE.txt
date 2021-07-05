@@ -1,6 +1,9 @@
 SONAR QUBE : create ec2 machine and installation the sonar qube 
 
 
+THIS edit file for the practice
+
+
 Pre-requistes:
 Instance should have at least 2 GB RAM. For AWS, instance should be atleast t2.small
 
